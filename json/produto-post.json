@@ -1,0 +1,7 @@
+{
+  "nome": "Mouse Gamer",
+  "preco": 150.0,
+  "categoria": {
+    "id": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "nome": "Teclado Gamer",
+  "preco": 250.0,
+  "categoria": {
+    "id": 1
+  }
+}
